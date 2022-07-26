@@ -4,7 +4,7 @@
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
-![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--9-lightgrey)
+![Live class](https://img.shields.io/badge/LIVE--CLASS-PROJECT--3-lightgrey)
 
 ![name](https://img.shields.io/badge/Sourabh--Udasi-College--Drop--Out-lightgrey)
 
