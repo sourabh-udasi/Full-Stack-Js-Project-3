@@ -1,4 +1,4 @@
-# Assignment - 3 - HTML ![](./images/html-5.png) and CSS ![](./images/css-3.png)
+# Assignment - 3 - HTML ![](./Images/html-5.png) and CSS ![](./Images/css-3.png)
 
 ![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Sourabh--Udasi-College--Drop--Out-lightgrey)
 
-## Project 3 - [Live Link](https://live-proj-9.netlify.app)
+## Project 3 - [Live Link](https://full-stack-js-proj-3.netlify.app/)
 
 ---
 
